@@ -19,9 +19,11 @@
         </label><br/><br/>
         <label for="places">Places:
             <input id="places" type="text" name="places">
+            <span> Variants: ONE, TWO, THREE, FOUR</span>
         </label><br/><br/>
         <label for="level">Level:
             <input id="level" type="text" name="level">
+            <span> Variants: BUDGET, MEDIUM, LUX</span>
         </label><br/><br/>
         <label for="rent">Rent:
             <input id="rent" type="text" name="rent">
